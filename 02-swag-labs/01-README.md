@@ -7,7 +7,13 @@ Este repositório reúne o **Plano de Teste**, **Casos de Teste** e o **Controle
 ## ✒️ Análise do Projeto
 > A imagem abaixo ilustra a estrutura da análise realizada, utilizando a ferramenta **Miro** para mapear visualmente os requisitos, fluxos de navegação e funcionalidades relevantes da aplicação.
 
-<p align="center"> <img src="" alt="Imagem de análise no Miro" width="250" /> </p>
+<p align="center"> <img src="../02-swag-labs/img/01-swag-labs.png" alt="Imagem de análise no Miro" width="250" /> </p>
+
+1. **Imagem de Referência**: Captura da interface do sistema **Swag Labs**, utilizada como base para análise funcional.  
+2. **Funcionalidade Selecionada**: Identificação da funcionalidade da aplicação que será alvo dos testes.  
+3. **Descrição Funcional de Alto Nível**: Explicação breve sobre o fluxo da funcionalidade, incluindo o tipo de usuário, a ação realizada e o objetivo que ela atende no contexto do sistema.  
+4. **Regras de Negócio**: Relação das regras que definem como a funcionalidade deve se comportar, conforme os requisitos esperados.  
+5. **Critérios de Aceite**: Conjunto de condições que precisam ser cumpridas para garantir que a funcionalidade está implementada corretamente e atende aos objetivos definidos.
 
 ## 📌 Objetivo
 
