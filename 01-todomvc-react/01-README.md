@@ -9,6 +9,12 @@ Com isso, apresento a análise do projeto **TodoMVC**, onde, por meio do site, i
 
 <p align="center"> <img src="../01-todomvc-react/img/01-todomvc.png" alt="Imagem de análise no Miro" width="250" /> </p>
 
+1. **Imagem de Referência**: Indicação visual da interface que será analisada.  
+2. **Funcionalidade em Foco**: Identificação clara da funcionalidade a ser testada.  
+3. **Descrição Funcional de Alto Nível**: Apresentação do fluxo principal, com destaque para o tipo de usuário, a ação realizada e o propósito da funcionalidade no sistema.  
+4. **Regras de Negócio**: Listagem das regras que regem o comportamento da funcionalidade, conforme os requisitos do sistema.  
+5. **Critérios de Aceite**: Definição dos critérios que devem ser atendidos para que a funcionalidade seja considerada válida e completa.
+
 ## 📁 Estrutura da Pasta
 
 - `evidencias/`: Contém capturas de tela organizadas por requisito, demonstrando a execução real dos testes.
